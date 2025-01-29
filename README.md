@@ -1,7 +1,7 @@
 # 🐶 Dog Breed Classifier
 
 Tämä projekti tunnistaa koirarodut kuvista käyttäen **TensorFlow-mallia**. Käyttöliittymä (Tkinter) mahdollistaa kuvien valinnan ja rodun ennustamisen. Mukana on myös koulutusskripti uusien mallien luomiseen.
-
+![Dog Breed Classifier GUI](image01.jpg)
 ## 📌 Datasetti
 Tässä projektissa käytetään Kaggle-datasettiä:  
 **[Dog Breed Identification](https://www.kaggle.com/competitions/dog-breed-identification/overview)**  
