@@ -17,6 +17,13 @@ Datasetti sisältää yli **20 000 kuvaa** eri koiraroduista, ja niitä käytet�
 
 ---
 
+## 🖥 Kehitysympäristö
+
+Tämä projekti on kehitetty **Windows Subsystem for Linux (WSL)** -ympäristössä.  
+Jos käytät Windowsia, suosittelen ajamaan projektia **WSL 2 -ympäristössä**, sillä koulutus- ja käyttöliittymäsovellukset voivat vaatia Linux-yhteensopivia riippuvuuksia.
+  
+---
+
 ## 🚀 Asennusohjeet
 
 ### 1️⃣ Kloonaa repository
