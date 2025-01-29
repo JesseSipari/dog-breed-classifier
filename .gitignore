@@ -1,0 +1,28 @@
+# Python-virtuaaliympäristö
+env/
+venv/
+*.venv
+
+# __pycache__-tiedostot
+__pycache__/
+*.pyc
+*.pyo
+
+# Mallit ja datatiedostot
+train/
+test/
+
+*.keras
+*.h5
+*.csv
+dog_breed_inception.keras
+dog_breed_inception_*.keras
+idx_to_breed.json
+labels.csv
+
+# Jupyter Notebook -tiedostot
+*.ipynb_checkpoints
+
+# Logi- ja tilapäistiedostot
+*.log
+.DS_Store
